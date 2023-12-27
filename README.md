@@ -9,6 +9,10 @@ This Todo app, built using UIKit, offers a simple and intuitive interface for ma
 - Categorize tasks
 - Light and dark mode support
 
+![image](./home.png)
+![image](./settings.png)
+![image](./add_task.png)
+
 ## Installation
 1. Clone the repository: `git clone [repo-link]`
 2. Open `TodoUIKitApp.xcodeproj` in Xcode
